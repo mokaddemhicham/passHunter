@@ -34,7 +34,7 @@ Avant de lancer l'outil, vous devez déterminer les noms des champs 'name' pour 
 
 2. **Trouvez l'Attribut 'name' :**
    - Dans l'inspecteur d'éléments, recherchez l'attribut 'name' du champ du nom d'utilisateur. Notez ce nom.
-   ![Screenshot](images/Screenshot 2023-11-21 012319.png)
+   ![Screenshot](images/1.png)
 
 3. **Répétez pour le Mot de Passe et le Bouton :**
    - Répétez les étapes ci-dessus pour trouver les attributs 'name' du champ du mot de passe et du bouton de connexion.
@@ -51,11 +51,11 @@ Pour déterminer le XPath du message d'erreur en entrant des données incorrecte
 
 2. **Inspectez le Message d'Erreur :**
    - Utilisez l'inspecteur d'éléments pour sélectionner le message d'erreur affiché après la soumission incorrecte du formulaire.
-   ![Screenshot](images/Screenshot 2023-11-21 165512.png)
+   ![Screenshot](images/2.png)
 
 3. **Obtenez le XPath :**
    - Cliquez avec le bouton droit sur l'élément du message d'erreur, sélectionnez "Copy" dans le menu contextuel, puis choisissez "Copy XPath".
-   ![Screenshot](images/Screenshot 2023-11-21 164833.png)
+   ![Screenshot](images/3.png)
 
 4. **Notez le XPath du Message d'Erreur :**
    - Notez le XPath que vous avez copié. Vous en aurez besoin pour configurer la détection de la validité des identifiants dans le script.
@@ -105,5 +105,5 @@ En cas d'erreur ou de problème lors de l'utilisation de l'outil, veuillez prend
 En cas de problème persistant, consultez la documentation ou contactez l'auteur de l'outil pour obtenir de l'aide.
 
 # Captures d'écran
-![Screenshot](images/Screenshot 2023-11-21 174208.png)
-![Screenshot](images/Screenshot 2023-11-21 174527.png)
+![Screenshot](images/4.png)
+![Screenshot](images/5.png)
